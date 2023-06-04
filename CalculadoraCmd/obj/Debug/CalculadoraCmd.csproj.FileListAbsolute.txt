@@ -1,0 +1,7 @@
+C:\Users\mateu\source\repos\CalculadoraCmd\CalculadoraCmd\bin\Debug\CalculadoraCmd.exe.config
+C:\Users\mateu\source\repos\CalculadoraCmd\CalculadoraCmd\bin\Debug\CalculadoraCmd.exe
+C:\Users\mateu\source\repos\CalculadoraCmd\CalculadoraCmd\bin\Debug\CalculadoraCmd.pdb
+C:\Users\mateu\source\repos\CalculadoraCmd\CalculadoraCmd\obj\Debug\CalculadoraCmd.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\CalculadoraCmd\CalculadoraCmd\obj\Debug\CalculadoraCmd.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\CalculadoraCmd\CalculadoraCmd\obj\Debug\CalculadoraCmd.exe
+C:\Users\mateu\source\repos\CalculadoraCmd\CalculadoraCmd\obj\Debug\CalculadoraCmd.pdb
